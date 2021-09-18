@@ -17,3 +17,5 @@ Source : https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
 All of the data is in 1 csv file: fake_job_postings.csv(50.06 MB)
 This file contains the dataset of job descriptions and their meta information. A small proportion of these descriptions are fake or scam which can be identified by the column "fraudulent". It has 18 coloumns
 
+<h3> EDA </h3>
+An exploratory data analysis is performed by analysing dataset as a whole and each of the 18 columns individually
